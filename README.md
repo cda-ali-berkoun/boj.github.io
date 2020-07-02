@@ -8,4 +8,10 @@ Les [réglages, c'est par là](../../settings).
 [Éditez ce fichier en cliquant ici](../../edit/master/README.md).
 sdsd
 allllllllllllllllll
+<<<<<<< HEAD
 vvvvvvvvvvvvvvvvvvvvvvv
+=======
+
+
+oooooooooooooooo
+>>>>>>> b5c1876ee4ffc5ef1ed227da0b7e459a15ba1f93
